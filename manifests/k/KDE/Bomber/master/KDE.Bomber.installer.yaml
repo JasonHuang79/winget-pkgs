@@ -9,14 +9,14 @@ ProductCode: bomber
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-723-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: E775181E7254A48B1E5E88C515DFE69612013740D2EEFAD166E6B1A40C2D7BD1
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-753-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: DD3860C917DFE8857ADACA70378CE949821CED00A1391EB989A194EDF0BEA31B
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-723-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: E775181E7254A48B1E5E88C515DFE69612013740D2EEFAD166E6B1A40C2D7BD1
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/bomber/master/windows/bomber-master-753-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: DD3860C917DFE8857ADACA70378CE949821CED00A1391EB989A194EDF0BEA31B
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
